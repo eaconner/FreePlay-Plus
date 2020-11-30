@@ -1,0 +1,4 @@
+Qty Value          Device         Parts      Description
+1   1M             R-US_0309/10   R1         RESISTOR
+3   1N4004         1N4004         D1, D2, D3 DIODE
+1   ATTINY45       ATTINY45       IC1        8-bit AVR Microcontroller - ATtiny45
