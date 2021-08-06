@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "AVR",
+            "intelliSenseMode": "${default}",
+            "cStandard": "c11",
+            "cppStandard": "c++14",
+            "compilerPath": "/Users/ericconner/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "includePath": [],
+            "compilerArgs": [
+                "-mmcu=attiny45",
+                "-DF_CPU=8000000UL"
+            ],
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
+        }
+    ],
+    "version": 4
+}

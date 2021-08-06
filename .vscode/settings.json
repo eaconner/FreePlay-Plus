@@ -1,0 +1,10 @@
+{
+    "AVR.source.compiler": "/Users/ericconner/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+    "AVR.programmer.tool": "/Users/ericconner/.platformio/packages/tool-avrdude/bin/avrdude",
+    "AVR.programmer.definitions": "/Users/ericconner/.platformio/packages/tool-avrdude/avrdude.conf",
+    "AVR.source.libraries": [],
+    "AVR.device.type": "attiny45",
+    "AVR.device.frequency": 8000000,
+    "AVR.programmer.type": "avrispmkii",
+    "AVR.programmer.port": "usb"
+}
